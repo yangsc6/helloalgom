@@ -46,6 +46,12 @@ staticdelivery.nexusmods.com#TG NexusMods
 220.128.110.108:43#台湾 11 家宽
 61.220.128.226:43#台湾 12 家宽
 
+1761002958.tencentapp.cn:2083#新加坡1
+1761002958.tencentapp.cn:2083#新加坡2
+1761002958.tencentapp.cn:2096#新加坡3
+1761002958.tencentapp.cn:2083#新加坡4
+1761002958.tencentapp.cn:2087#新加坡5
+1761002958.tencentapp.cn:2087#新加坡6
 palera.in:443#US PA
 fbi.gov:443#US FB
 www.wto.org:443#US WT
@@ -71,6 +77,10 @@ miki.ns.cloudflare.com:443#US CF
 154.19.186.210:12508#日本 05
 13.113.113.240:10005#日本 06
 154.36.183.95:1015#日本 07
+1761002958.tencentapp.cn:2053#日本大阪1
+1761002958.tencentapp.cn:8443#日本大阪2
+1761002958.tencentapp.cn:2087#日本大阪3
+1761002958.tencentapp.cn:2083#日本大阪4
 
 47.250.139.59:443#马来西亚 01
 20.17.104.92:443#马来西亚 02
