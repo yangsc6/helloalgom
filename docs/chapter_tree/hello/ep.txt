@@ -12,8 +12,12 @@
 36.50.90.241:35951#HK 01
 36.50.90.241:47790#HK 02
 
-220.128.110.108:43#TW 01 家宽
-61.220.128.226:43#TW 01 家宽
+1761002958.tencentapp.cn:2083#SG 1
+1761002958.tencentapp.cn:2096#SG 3
+1761002958.tencentapp.cn:2087#SG 5
+1761002958.tencentapp.cn:2053#JP 1
+1761002958.tencentapp.cn:8443#JP 2
+
 www.fbi.gov:2095#TG FBI
 www.shopify.com#TG shopify
 openai.com:2095#TG openai
@@ -28,39 +32,8 @@ mfa.gov.ua#TG 乌克兰外交部
 store.ubi.com#TG Ubisoft
 staticdelivery.nexusmods.com#TG NexusMods
 
-1761002958.tencentapp.cn:2083#SG 1
-1761002958.tencentapp.cn:2083#SG 2
-1761002958.tencentapp.cn:2096#SG 3
-1761002958.tencentapp.cn:2083#SG 4
-1761002958.tencentapp.cn:2087#SG 5
-1761002958.tencentapp.cn:2087#SG 6
-
-1761002958.tencentapp.cn:2053#JP 1
-1761002958.tencentapp.cn:8443#JP 2
-1761002958.tencentapp.cn:2087#JP 3
-1761002958.tencentapp.cn:2083#JP 4
-
-1761002958.tencentapp.cn:2053#US East Ashburn 1
-1761002958.tencentapp.cn:8443#US East Ashburn 2
-1761002958.tencentapp.cn:2087#US East Ashburn 3
-1761002958.tencentapp.cn:8443#US West San Jose 1
-1761002958.tencentapp.cn:2096#US West San Jose 2
-1761002958.tencentapp.cn:8443#US West San Jose 3
-1761002958.tencentapp.cn:2053#US West San Jose 4
-1761002958.tencentapp.cn:8443#US Central Chicago 1
-1761002958.tencentapp.cn:2053#US Central Chicago 2
-1761002958.tencentapp.cn:2087#US Central Chicago 3
-1761002958.tencentapp.cn:8443#US Central Chicago 4
-1761002958.tencentapp.cn:2083#US Central Chicago 5
-1761002958.tencentapp.cn:2096#US Central Chicago 6
-1761002958.tencentapp.cn:2053#US Central Chicago 7
-1761002958.tencentapp.cn:8443#US Central Chicago 8
-1761002958.tencentapp.cn:2096#US East New York 1
-1761002958.tencentapp.cn:2087#US West California Fremont 1
-1761002958.tencentapp.cn:2087#US Central Chicago ccs1
-1761002958.tencentapp.cn:2096#US West Los Angeles 1
-1761002958.tencentapp.cn:2083#US West Los Angeles 2
-1761002958.tencentapp.cn:2096#US South Dallas 1
+220.128.110.108:43#TW 01 家宽
+61.220.128.226:43#TW 01 家宽
 
 8.35.211.176 #TG 电信 01
 8.35.211.180 #TG 电信 02
