@@ -12,11 +12,11 @@
 36.50.90.241:35951#HK 01
 36.50.90.241:47790#HK 02
 
-1761002958.tencentapp.cn:2083#SG 1
-1761002958.tencentapp.cn:2096#SG 3
-1761002958.tencentapp.cn:2087#SG 5
-1761002958.tencentapp.cn:2053#JP 1
-1761002958.tencentapp.cn:8443#JP 2
+1761002958.tencentapp.cn:2083#SG FC 01
+1761002958.tencentapp.cn:2096#SG FC 02
+1761002958.tencentapp.cn:2087#SG FC 03
+1761002958.tencentapp.cn:2053#SG FC 04
+1761002958.tencentapp.cn:8443#SG FC 05
 
 www.fbi.gov:2095#TG FBI
 www.shopify.com#TG shopify
