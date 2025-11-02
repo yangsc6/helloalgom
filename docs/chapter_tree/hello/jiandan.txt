@@ -1,1 +1,19 @@
+www.shopify.com#TG shopify
+www.npmjs.com:2095#TG npmjs
+cmcc.090227.xyz:443#TG移动 01
+time.is:8443#TG 移动 02
+mfa.gov.ua:2096#TG 电信 01
+cf.090227.xyz:2083#TG 自适应 01
+cf.877774.xyz:2087#TG 自适应 02
+mfa.gov.ua#TG 乌克兰外交部
+store.ubi.com#TG Ubisoft
 
+45.78.24.125:10007#香港 46910 kB/s
+
+139.177.185.88:20205#新加坡 35514 kB/s
+
+172.105.208.156:20205#日本东京 52931 kB/s
+
+144.34.228.184:20029#美国洛杉矶 69735 kB/s
+
+103.56.60.156:6070#中国 01
