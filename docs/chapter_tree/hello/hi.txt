@@ -12,7 +12,6 @@ mfa.gov.ua#TG 乌克兰外交部
 store.ubi.com#TG Ubisoft
 staticdelivery.nexusmods.com#TG NexusMods
 
-154.12.177.24:54939#香港 118352 kB/s
 151.240.13.47:443#香港 114367 kB/s
 38.207.161.100:17906#香港 49434 kB/s
 45.78.24.125:10007#香港 46910 kB/s
