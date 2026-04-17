@@ -17,6 +17,9 @@ staticdelivery.nexusmods.com#TG NexusMods
 36.50.90.241:47790#香港 82752 kB/s
 38.207.161.100:17906#香港 49434 kB/s
 
+ct.lilyemby.bbroot.com#top电信 01
+
+
 141.11.139.239:39738#日本东京 41899 kB/s
 
 108.162.198.114#日本 01
