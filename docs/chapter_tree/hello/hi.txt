@@ -1,3 +1,4 @@
+ct.lilyemby.bbroot.com#TG 电信优选
 www.fbi.gov:2095#TG FBI
 www.shopify.com#TG shopify
 openai.com:2095#TG openai
