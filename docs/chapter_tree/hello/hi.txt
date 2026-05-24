@@ -11,13 +11,6 @@
 162.159.44.193#日本 70.47MB/s
 162.159.45.87#日本 67.07MB/s
 
-x18.nginxlily.cyou#TG l01
-x5.nginxlily.cyou#TG l02
-x1.nginxlily.cyou#TG l03
-x8.nginxlily.cyou#TG l04
-
-emby.726748.xyz#TG xyz
-
 162.159.48.48#新加坡 71.11MB/s
 172.64.42.82#新加坡 70.91MB/s
 172.64.34.158#新加坡 70.46MB/s
