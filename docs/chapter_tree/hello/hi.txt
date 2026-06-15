@@ -21,6 +21,8 @@
 162.159.42.133#新加坡 69.49MB/s
 162.159.35.224#新加坡 67.64MB/s
 
+104.18.19.237#美国 20.35MB/s
+
 www.fbi.gov:2095#TG FBI
 www.shopify.com#TG shopify
 openai.com:2095#TG openai
