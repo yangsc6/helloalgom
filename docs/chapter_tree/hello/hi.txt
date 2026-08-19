@@ -1,5 +1,10 @@
 104.18.19.237#美国 20.35MB/s
 
+[2a06:98c1:310a:b01a:f8f0:7657:9115:2034]#新加坡 V6 62.36MB/s
+[2a06:98c1:310b:53eb:b401:42f7:bbe:bb61]#新加坡 V6 51.51MB/s
+[2a06:98c1:310a:20:afba:3f4:9353:f76f]#新加坡 V6 49.6MB/s
+[2a06:98c1:310b:530b:2a98:a7a0:c53d:388]#新加坡 V6 37.84MB/s
+
 www.fbi.gov:2095#TG FBI
 www.shopify.com#TG shopify
 openai.com:2095#TG openai
